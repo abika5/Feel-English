@@ -3,7 +3,7 @@
 3.Steps to load the extension:
   a.Open Google chrome
   b.Go to Customize and Control Google Chrome(Three Vertical Dots)->More tools->Extensions and click on it
-  c.Click on Load unpacked extension and browse the folder Assign2-SangaviJayagopi\extension in the extracted folder and click OK
+  c.Click on Load unpacked extension and browse the folder Feel-English\extension in the extracted folder and click OK
 4.Please install Python, pip, Python Flask, Pymysql using the following links:
 Pip---  https://pip.pypa.io/en/stable/installing/
 Flask---- http://flask.pocoo.org/docs/0.12/installation/#pip-and-setuptools-on-windows
