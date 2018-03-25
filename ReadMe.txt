@@ -1,4 +1,4 @@
-1.Unzip the Assign2-SangaviJayagopi folder
+1.Unzip the Feel-English project folder
 2.Run the commands in DBscript.txt in MySQL Database(Username:admin,Password:root,Database:adaptive)
 3.Steps to load the extension:
   a.Open Google chrome
